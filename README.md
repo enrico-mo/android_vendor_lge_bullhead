@@ -1,2 +1,2 @@
 # android_vendor_lge_bullhead
-DEPRECATED. USE BRANCH cm-14.1 INSTEAD.
+Vendor Tree for Nexus 5x (Android 10)
